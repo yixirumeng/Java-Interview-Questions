@@ -34,8 +34,60 @@
 
 [16、final有哪些用法](https://github.com/yixirumeng/Java-Interview-Questions/issues/17)
 
-[17、final有哪些用法](https://github.com/yixirumeng/Java-Interview-Questions/issues/18)
+[17、64位的JVM当中,int的长度是多少?](https://github.com/yixirumeng/Java-Interview-Questions/issues/18)
+
+[18、int和Integer的区别，谁占用的内存更多](https://github.com/yixirumeng/Java-Interview-Questions/issues/19)
+
+[19、String, StringBuffer和StringBuilder](https://github.com/yixirumeng/Java-Interview-Questions/issues/20)
+
+[20、java当中使用什么类型表示价格比较好?](https://github.com/yixirumeng/Java-Interview-Questions/issues/21)
 
 ### 线程
 
-[1、Java线程池每个参数的作用](https://github.com/yixirumeng/Java-Interview-Questions/issues/1)
+[1、进程，线程之间的区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/22)
+
+[2、守护线程和非守护线程有什么区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/23)
+
+[3、创建两种线程的方式?他们有什么区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/24)
+
+[4、Thread类中的start()和run()方法有什么区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/25)
+
+[5、Runnable和Callable的区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/26)
+
+[6、什么导致线程阻塞](https://github.com/yixirumeng/Java-Interview-Questions/issues/27)
+
+[7、产生死锁的条件](https://github.com/yixirumeng/Java-Interview-Questions/issues/28)
+
+[8、为什么wait()方法和notify()/notifyAll()方法要在同步块中被调用](https://github.com/yixirumeng/Java-Interview-Questions/issues/29)
+
+[9、wait()与sleep()的区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/30)
+
+[10、为什么wait, nofity和nofityAll这些方法不放在Thread类当中](https://github.com/yixirumeng/Java-Interview-Questions/issues/31)
+
+[11、怎么唤醒一个阻塞的线程](https://github.com/yixirumeng/Java-Interview-Questions/issues/32)
+
+[12、synchronized和ReentrantLock的区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/33)
+
+[13、FutureTask](https://github.com/yixirumeng/Java-Interview-Questions/issues/34)
+
+[14、线程局部变量ThreadLocal](https://github.com/yixirumeng/Java-Interview-Questions/issues/35)
+
+[15、Java线程池每个参数的作用](https://github.com/yixirumeng/Java-Interview-Questions/issues/1)
+
+[16、如果你提交任务时，线程池队列已满，这时会发生什么](https://github.com/yixirumeng/Java-Interview-Questions/issues/36)
+
+[17、什么是CAS](https://github.com/yixirumeng/Java-Interview-Questions/issues/37)
+
+[18、乐观锁和悲观锁](https://github.com/yixirumeng/Java-Interview-Questions/issues/38)
+
+### 集合（list、map）
+
+[1、集合poll()方法和remove()方法区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/39)
+
+[2、LinkedHashMap和PriorityQueue的区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/40)
+
+[3、ArrayList和LinkedList的区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/41)
+
+[4、ArrayList和Array有什么区别](https://github.com/yixirumeng/Java-Interview-Questions/issues/42)
+
+[5、HashMap的实现原理](https://github.com/yixirumeng/Java-Interview-Questions/issues/43)
